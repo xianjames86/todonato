@@ -35,8 +35,3 @@ A cutting-edge automated tool that leverages browser cookies to streamline Faceb
 3. Paste the post URL
 4. Set your desired sharing parameters
 5. Click "BOOST NOW"
-
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white
