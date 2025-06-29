@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-success?style=for-the-badge" alt="Version">
 </div>
 
-![Cyberpunk UI Screenshot](https://i.imgur.com/JQZ5X0a.png)
+![Cyberpunk UI Screenshot](https://i.imgur.com/SfuFOFX.jpeg)
 
 > **🌐 Official Website:** [https://jl-spam-share.onrender.com](https://jl-spam-share.onrender.com)
 
